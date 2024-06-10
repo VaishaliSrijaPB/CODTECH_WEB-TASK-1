@@ -1,10 +1,10 @@
 # CODTECH_WEB-TASK-1
 **Name:** VAISHALI SRIJA P B
 **Company:** CODTECH IT SOLUTIONS
-**ID:** 
+**ID:** CT08WD183
 **Domain:** WEB DEVELOPMENT
 **Duration:** May to June 2024
-**Mentor:**
+**Mentor:** G.SRAVANI
 
  ## OVERVIEW OF THIS PROJECT
  ### PROJECT NAME: RECIPE ORGANIZER APP USING HTML, CSS, JAVASCRIPT
@@ -22,5 +22,5 @@
 8. **Save** recipes for offline viewing.
 
 The app aims to simplify the process of managing recipes and helps users to plan their meals more efficiently. It can also serve as a personal cookbook that is accessible from any device with a web browser. The use of web technologies like HTML, CSS, and JavaScript ensures that the app is cross-platform and does not require any special software to run, other than a web browser.
-![image](https://github.com/VaishaliSrijaPB/CODTECH_WEB-TASK-1/assets/151757739/f0bde246-af51-4bb3-85f2-a943cb82e51d)
+
 
